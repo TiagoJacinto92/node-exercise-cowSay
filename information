@@ -1,5 +1,5 @@
 const name = 'Tiago Jacinto';
-const school = 'Wild Code School';
+const school = 'Lisbon Campus';
 
 module.exports = {
   name: name,
